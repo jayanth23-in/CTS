@@ -39,7 +39,7 @@ class Product1{
     }
 
 }
-
+//
 class InventoryM{
     //Class to manage the inventory of products
     Map<String , Product1> pMap = new HashMap<>();
