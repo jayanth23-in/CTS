@@ -26,12 +26,12 @@ class Product1{
 
     public String getProductId() { return productID; }
     public String getProductName() { return productName; }
-    public int getQuantity() { return quantity; }
-    public double getPrice() { return price; }
+   // public int getQuantity() { return quantity; }
+    // public double getPrice() { return price; }
 
     public void setProductName(String productName) { this.productName = productName; }
-    //public void setQuantity(int quantity) { this.quantity = quantity; }
-    //public void setPrice(double price) { this.price = price; }
+    public void setQuantity(int quantity) { this.quantity = quantity; }
+    public void setPrice(double price) { this.price = price; }
 
     @Override
     public String toString() {
