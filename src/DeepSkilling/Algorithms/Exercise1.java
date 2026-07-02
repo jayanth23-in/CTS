@@ -1,5 +1,5 @@
 
-package Algorithms;
+package DeepSkilling.Algorithms;
 import java.util.*;
 //1.The essentiality of handling large inventories using DSA comes down to efficiency
 //  A few types of structures that can be used are :
