@@ -1,5 +1,5 @@
 
-package DeepSkilling.Week1.Algorithms.DesignPatterns;
+package DeepSkilling.Week1.DesignPatterns;
 
 class Computer {
     private  String cpu;

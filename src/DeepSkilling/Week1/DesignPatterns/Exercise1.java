@@ -1,4 +1,4 @@
-package DeepSkilling.Week1.Algorithms.DesignPatterns;
+package DeepSkilling.Week1.DesignPatterns;
 
 class Logger {
     private static Logger instance;

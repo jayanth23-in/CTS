@@ -1,4 +1,4 @@
-package DeepSkilling.Week1.Algorithms;
+package DeepSkilling.Week1.DSAlgorithms;
 
 class Order {
     int orderId;
