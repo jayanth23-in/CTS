@@ -1,4 +1,4 @@
-package DeepSkilling.Algorithms;
+package DeepSkilling.Week1.Algorithms;
 
 class Task {
     int taskId;

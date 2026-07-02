@@ -1,5 +1,5 @@
 
-package DeepSkilling.Algorithms;
+package DeepSkilling.Week1.Algorithms;
 
 //O notation -
 //Best , AVG , WORST case
