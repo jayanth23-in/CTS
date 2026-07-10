@@ -10,7 +10,7 @@ public class Main {
 
         // Load the Spring IoC container using the XML configuration
         ApplicationContext context =
-                new ClassPathXmlApplicationContext("applicationContext.xml");
+                new ClassPathXmlApplicationContext("LibraryManagement/src/main/resources/applicationContext.xml");
 
         // Ask the container for the fully wired bookService bean
         BookService bookService = (BookService) context.getBean("bookService");
